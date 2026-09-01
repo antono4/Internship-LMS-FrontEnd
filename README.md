@@ -1,67 +1,32 @@
-<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
-<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
+# internship-lms-frontend
 
-<h1 align="center">Project 👋</h1>
+We are in the mission of solving a crisis for a lot of small and medium enterprises, who are trying to recruit interns for their projects.
 
-<p align="center">
-  <strong></strong>
-</p>
+## 📋 Overview
 
-<p align="center">
-  <a href="https://github.com/antono4/Internship-LMS-FrontEnd"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/Internship-LMS-FrontEnd-blue?logo=github"></a>
-  <a href="https://antono4.github.io/Internship-LMS-FrontEnd/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
-  <img alt="Files" src="https://img.shields.io/badge/Files-93-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-02 02:49:40 WIB-lightgrey">
-</p>
+This repository contains **93 files** and is built with the following technologies:
 
----
+Node.js
 
-## 📖 Tentang
-
-Repository **`Internship-LMS-FrontEnd`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/Internship-LMS-FrontEnd/`](https://antono4.github.io/Internship-LMS-FrontEnd/).
-
-## 🗂️ Struktur Proyek
-
-```
-Internship-LMS-FrontEnd/
-├── index.html          # Halaman utama (landing / portofolio)
-├── assets/             # Aset statis (css, js, img, vendor)
-├── forms/               # Form handler (PHP)
-```
-
-## 🛠️ Teknologi
-
-Berdasarkan isi repository, proyek ini menggunakan:
-
-- `HTML`
-- `CSS`
-- `SCSS`
-- `JavaScript`
-
-> Total **93 file** terdeteksi di repository.
-
-## 🚀 Menjalankan Secara Lokal
-
-Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+## 🚀 Quick Start
 
 ```bash
-# Tanpa dependency
-python3 -m http.server 8000
-# lalu buka http://localhost:8000
-
-# atau dengan PHP (untuk form handler di forms/)
-php -S localhost:8000
+npm install
+npm run dev
+npm run build
 ```
 
-## 📬 Kontak
+## ✨ Features
 
-- GitHub: [antono4](https://github.com/antono4)
-- Situs: [https://antono4.github.io/Internship-LMS-FrontEnd/](https://antono4.github.io/Internship-LMS-FrontEnd/)
+- 📝 Auto-generated documentation
 
-## 📄 Lisensi
+## 🛠️ Technologies
 
-Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+Node.js
+
+## 📄 License
+
+MIT License
 
 ---
-
-<sub>README ini di-generate otomatis pada **2026-09-02 02:49:40 WIB** oleh GitHub Actions .</sub>
+*Last updated: 2026-09-02 04:24:04 WIB*
